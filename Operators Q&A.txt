@@ -1,0 +1,45 @@
+Q.1 Identify the valid and invalid operators. 
+Valid =  >=,//=,&
+invalid= <>
+
+Q.2)if i=3,j=2 what is the result of following:
+  i)i+5>=j-6 
+   ans:-TRUE
+ ii)j*10<i**2
+  ans:-FALSE
+ iii)i<j+5>j**4
+  ans:-FALSE
+
+Q.3)which is the correct operator for power(xy):
+ ans:- 3)Power  operator(**)
+
+Q.4)which one of these is floor division:
+ ans:-Floor divison(//)
+ 
+Q.5)what is the order of precedence in python:
+ ans:-parenthesis,
+          exponentiation,
+         multiplication,
+         division,
+         addition,
+        subtraction.
+
+Q.6)what is the answer to this expression: 22%3
+ ans:-the answer of given equation is:1
+
+Q.7)Mathematical opeartions can be performed on a String.
+ ans:-NO,mathematical operations cannot be performed on string
+
+Q.8)Wthat is meant by an Operators in Python:
+ ans:- Operators are special symbol that designate that some sort of computation should be performed 
+
+Q.9)How many types of Operators in python
+ ans:- there are 7 types of operators:-
+ 1.Arthematic
+ 2.Logical
+ 3.Comparison
+ 4.Assignment
+ 5.Bitwise
+ 6.Identity
+ 7.Membership
+
